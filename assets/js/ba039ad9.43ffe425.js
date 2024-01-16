@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[115],{2109:e=>{e.exports=JSON.parse('{"label":"docusaurus","permalink":"/for-the-love-of-discovery/tags/docusaurus","allTagsPath":"/for-the-love-of-discovery/tags","count":1,"unlisted":false}')}}]);
