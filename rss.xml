@@ -75,8 +75,10 @@ Note, the error we just appended to the conversation was about <strong>~500 toke
 <li>"round_robin": the next speaker is selected in a round robin fashion, i.e., iterating in the same order as provided in agents.</li>
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="summary">Summary<a href="https://georgemclaughlin.github.io/for-the-love-of-discovery/microsoft-autogen-prompts#summary" class="hash-link" aria-label="Direct link to Summary" title="Direct link to Summary">​</a></h2>
-<p>Hopefully this sheds some light on how AutoGen uses extreme prompting to have agents working together.</p>]]></content:encoded>
-            <category>docusaurus</category>
+<p>I hope this provides a clearer understanding of how AutoGen's refined prompting enables agents working together.</p>]]></content:encoded>
+            <category>llm</category>
+            <category>autogen</category>
+            <category>feasibility</category>
         </item>
     </channel>
 </rss>
