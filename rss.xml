@@ -74,6 +74,9 @@ Note, the error we just appended to the conversation was about <strong>~500 toke
 <li>"random": the next speaker is selected randomly.</li>
 <li>"round_robin": the next speaker is selected in a round robin fashion, i.e., iterating in the same order as provided in agents.</li>
 </ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="one-last-trick">One Last Trick<a href="https://fortheloveofdiscovery.com/microsoft-autogen-prompts#one-last-trick" class="hash-link" aria-label="Direct link to One Last Trick" title="Direct link to One Last Trick">​</a></h2>
+<p>When AutoGen runs, it generates a local cache in the form of a SQLite database in the directory of your python code. This cache contains the calls like the ones I share above.</p>
+<p><code>.cache/41/cache.db</code></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="summary">Summary<a href="https://fortheloveofdiscovery.com/microsoft-autogen-prompts#summary" class="hash-link" aria-label="Direct link to Summary" title="Direct link to Summary">​</a></h2>
 <p>I hope this provides a clearer understanding of how AutoGen's refined prompting enables agents working together.</p>]]></content:encoded>
             <category>llm</category>
